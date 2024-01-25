@@ -3,4 +3,4 @@
 
 Links Solution URL: [https://github.com/hedisnice/Increment-Counter]
 
-Live Site URL: [https://increment-counter-forpratice.netlify.app]
+Live Site URL: [https://hedisnice.github.io/Increment-Counter/]
